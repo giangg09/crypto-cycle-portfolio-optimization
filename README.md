@@ -31,4 +31,12 @@ The project is divided into two main parts:
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
+crypto-cycle-portfolio-optimization/
+├─ config/ # YAML configuration files
+├─ data/ # raw, interim, and processed data (OHLCV, features, regimes)
+├─ docs/ # theory and documentation
+├─ notebooks/ # Jupyter notebooks for EDA and modeling
+├─ src/ # core source code (data, features, regimes, optimization, backtest)
+├─ reports/ # generated reports and visualizations
+└─ tests/ # unit tests
