@@ -1,7 +1,3 @@
-# crypto-cycle-portfolio-optimization
-Quantitative research project on crypto market cycle detection and portfolio optimization — identifying bull/bear/sideways regimes and adapting allocations accordingly.
-
-
 # 🪙 Crypto Cycle Portfolio Optimization
 > Master's thesis project — “Tối ưu hóa danh mục đầu tư tiền điện tử dựa trên phân tích chu kỳ”.
 
