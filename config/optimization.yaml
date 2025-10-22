@@ -1,0 +1,4 @@
+rebalance: weekly
+constraints:
+  long_only: true
+  w_max: 0.25

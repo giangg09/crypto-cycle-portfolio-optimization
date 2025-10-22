@@ -1,0 +1,6 @@
+trend:
+  ma_long: 200
+adx:
+  threshold_trend: 22
+vol:
+  lookback: 20

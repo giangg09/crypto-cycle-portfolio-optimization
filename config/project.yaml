@@ -1,0 +1,3 @@
+project_name: crypto-cycle-portfolio-optimization
+random_state: 42
+data_path: ./data
